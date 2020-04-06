@@ -199,3 +199,33 @@ h4 {
   padding:30px;
   text-align: left;
 }
+
+.navigation {
+  background-color: #42AEB8;
+  width: 100vw;
+  padding-bottom: 100px;
+  height: 0 auto;
+  padding: 60px 0;
+}
+
+.previous {
+  float: left;
+  background-color: #42AEB8;
+  text-align: left;
+}
+
+.previous a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.next {
+  float: right;
+  background-color: #42AEB8;
+  text-align: right;
+}
+
+.previous a {
+  text-decoration: none;
+  color: #42AEB8;
+}
