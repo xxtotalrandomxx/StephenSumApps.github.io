@@ -52,7 +52,7 @@ ul li a {
 }
 
 .effect:hover {
-  color: #B9C452;
+  color: ##0E63E3;
   transition: 0.5s;
   font-weight: bold;
 }
