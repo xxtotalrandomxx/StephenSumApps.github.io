@@ -72,6 +72,12 @@ ul li a {
   font-weight: bold;
 }
 
+.effect3:hover {
+  color: 0x980b46;
+  transition: 0.5s;
+  font-weight: bold;
+}
+
 #about {
   padding-right:0;
   padding-left:0;
