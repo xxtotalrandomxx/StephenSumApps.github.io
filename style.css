@@ -28,7 +28,6 @@ font-family: 'Raleway', sans-serif;
   width: 85vw;
   height: auto;
   margin: 0 auto;
-  position: relative;
 }
 
 #interactive {
@@ -75,14 +74,14 @@ ul li a {
 
 #about {
   padding-right:0;
+  padding-left:0;
 }
 
 footer {
   color: #fff;
   width: 100%;
-  position: absolute;
   bottom: 0;
-  padding: 50px;
+  position: relative;
   font-size: 2em;
 }
 
