@@ -82,6 +82,7 @@ footer a {
 /* PORTFOLIO PAGE STYLES */
 
 .imagegroup {
+  height: center;
   width:32%;
   color: #fff;
   display: inline-block;
